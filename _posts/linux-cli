@@ -1,0 +1,10 @@
+---
+layout: post
+title: Linux CLI
+---
+
+# Linux CLI - System Level
+
+## Disk Management
+`fdisk -l`
+```df -h```
